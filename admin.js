@@ -69,7 +69,7 @@ function initDashboard() {
 window.onload = initDashboard;
 
 // Handling logout link (Optional feature)
-document.querySelector('a[href="#logout"]').addEventListener('click', function(event) {
+document.querySelector('a[href="index.html"]').addEventListener('click', function(event) {
     event.preventDefault();
     alert('You have successfully logged out.');
     // Add further logout functionality here (e.g., redirect to login page)
