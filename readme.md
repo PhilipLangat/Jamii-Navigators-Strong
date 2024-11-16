@@ -40,7 +40,7 @@ Jamii Navigators addresses several core challenges in community engagement by of
 # Explanation
 ## Jamii Navigators Appendices
 ### Jamii Navigators App
-![Screenshot Description](screenshots/App.png)
+![Screenshot Description](Src/screenshots/App.png)
 Jamii Navigators App 📱
 The Jamii Navigators App is a user-friendly mobile platform that empowers communities by helping users connect with essential local services at their fingertips. Whether you're seeking healthcare, education, or social support, our app brings everything together in one convenient place.
 - Key Highlights:
